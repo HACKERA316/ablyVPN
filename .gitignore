@@ -216,7 +216,7 @@ csx/
 # Microsoft Azure Emulator
 ecf/
 rcf/
-
+server/
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
