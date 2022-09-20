@@ -1,6 +1,7 @@
-cls
+clear
 mkdir apps && cd apps 
 git clone https://github.com/HACKERA316/ablylinuxVPN.git
-echo yüklendi... lütfen kütü niyetle kullanmayınız...
+echo instaled...
 clear
-cd apps/ablylinuxVPN && start
+cd apps/ablylinuxVPN
+python3
