@@ -1,13 +1,20 @@
-banner = """
-development  python file dont downloads
-"""
+banner = '''
+          $$\       $$\           $$\    $$\ $$$$$$$\  $$\   $$\ 
+          $$ |      $$ |          $$ |   $$ |$$  __$$\ $$$\  $$ |
+ $$$$$$\  $$$$$$$\  $$ |$$\   $$\ $$ |   $$ |$$ |  $$ |$$$$\ $$ |
+ \____$$\ $$  __$$\ $$ |$$ |  $$ |\$$\  $$  |$$$$$$$  |$$ $$\$$ |
+ $$$$$$$ |$$ |  $$ |$$ |$$ |  $$ | \$$\$$  / $$  ____/ $$ \$$$$ |
+$$  __$$ |$$ |  $$ |$$ |$$ |  $$ |  \$$$  /  $$ |      $$ |\$$$ |
+\$$$$$$$ |$$$$$$$  |$$ |\$$$$$$$ |   \$  /   $$ |      $$ | \$$ |
+ \_______|\_______/ \__| \____$$ |    \_/    \__|      \__|  \__|
+                        $$\   $$ |
+                        \$$$$$$  |  coder: hackera316/github
+                         \______/   version: v1.0.0-alpha.1
+                      https://github.com/hackera316/ably-hack-tool                             
+'''
 print(banner)
 
-vpn = input("vpn name #> ")
 
-if vpn == "us1":
-    print(vpn + " connecting")
-elif vpn == "us2":
-    print(vpn + " vpn connecting")
-else:
-    print("vpn connecting to vpn "+vpn)
+
+
+
