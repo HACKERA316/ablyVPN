@@ -13,8 +13,3 @@ $$  __$$ |$$ |  $$ |$$ |$$ |  $$ |  \$$$  /  $$ |      $$ |\$$$ |
                       https://github.com/hackera316/ably-hack-tool                             
 '''
 print(banner)
-
-
-
-
-
