@@ -14,6 +14,6 @@ $$  __$$ |$$ |  $$ |$$ |$$ |  $$ |  \$$$  /  $$ |      $$ |\$$$ |
                          \______/   version: v1.0.0-alpha.1     |
                       https://github.com/hackera316/ably-hack-tool
 '''
-
-
 print(banner)
+
+test_command = input("test #> ")
