@@ -17,3 +17,6 @@ $$  __$$ |$$ |  $$ |$$ |$$ |  $$ |  \$$$  /  $$ |      $$ |\$$$ |
 print(banner)
 
 test_command = input("test #> ")
+
+print(test_command)
+
