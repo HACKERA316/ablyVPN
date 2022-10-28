@@ -3,6 +3,7 @@ clear
 echo unistalll...
 rm -r ablylinuxVPN
 echo installing...
-git clone https://github.com/HACKERA316/ablylinuxVPN.git
+git clone https://github.com/HACKERA316/ablyVPN
 clear
-cd ablylinuxVPN && python3 main.py
+cd ablyVPN
+python main.py
