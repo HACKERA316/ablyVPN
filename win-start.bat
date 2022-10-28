@@ -1,8 +1,6 @@
-clear
+cls
 # Installer ablyLinuxVPN new name ablyVPN
-echo unistalll...
 rm -r ablylinuxVPN
-echo installing...
-git clone https://github.com/HACKERA316/ablylinuxVPN.git
-clear
-cd ablylinuxVPN && python3 main.py
+git clone https://github.com/HACKERA316/ablyVPN.git
+cls
+cd ablyVPN && python main.py
