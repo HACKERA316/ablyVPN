@@ -1,7 +1,17 @@
-[
-  {
-    "id":1,
-    "name": "test",
-    "test_desc": "test desc"
-  }
-]
+{
+  "api-name": "ablyvpn",
+  "update": false,
+  "desc": "linux fast vpn system",
+  "version": 10000,
+  "data-cx": "data-cx-100",
+  "vpn-list": [
+    {
+      "id": 1,
+      "name": "us1",
+      "vpn-url": "https://vpn-api.ably.epizy.com/apps/u/vpn/name/tcp/pro/80",
+      "status": true,
+      "secure": true,
+      "user-ethernet": true
+    }
+  ]
+}
